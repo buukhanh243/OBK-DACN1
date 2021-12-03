@@ -232,7 +232,7 @@ class Toplevel1:
                     #                        subtype="jpg", filename=fname)
                     #
                     # with smtplib.SMTP_SSL('smtp.gmail.com', 465) as smtp:
-                    #     smtp.login('obkhanh.18it5@vku.udn.vn', 'khanhngan243512')
+                    #     smtp.login('obkhanh.18it5@vku.udn.vn', 'mat khau cua m')
                     #     smtp.send_message(msg)
                     # print('[INFO] alert mail Sent to authorities')
 
